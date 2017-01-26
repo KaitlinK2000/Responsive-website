@@ -1,0 +1,45 @@
+img {
+	max-width: 100%;
+}
+
+
+.container {
+	display: flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+
+li {
+	list-style: none;
+	padding: 10px;
+}
+
+.parent {
+	display: flex;
+	justify-content:flex-end;
+}
+
+.container-1 {
+	width: 100%;
+	display: flex;
+}
+
+.inner-container {
+	width: 24%;
+	padding: 10px;
+
+}
+
+.inner-container-2 {
+	width: 76%;
+	padding: 10px;
+}
+
+.container-2 {
+	width: 100%;
+	display: flex;
+}
+
+.inner-container-3 {
+	width: 33%;
+}
